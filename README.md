@@ -2,7 +2,7 @@
 
 I'm a Software Engineer Student aspiring to get a Full Stack Development Job. 
 
-I always interested on learning new stuff and leveling up. I also like learning from others devs.
+I'm always interested on learning new stuff and leveling up. I also like learning from others devs.
 
 
 <!--
